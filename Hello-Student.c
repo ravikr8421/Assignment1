@@ -3,7 +3,7 @@
 
 int main()
 {
-  printf("Hello Student! \n");
+  printf("Hello Student! \n Student");
   getch();
   return 0;
 }
